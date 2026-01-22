@@ -1,0 +1,10 @@
+qdrant-client
+sentence-transformers
+numpy
+geopy
+folium
+streamlit-folium
+nltk
+scikit-learn
+joblib
+torch
