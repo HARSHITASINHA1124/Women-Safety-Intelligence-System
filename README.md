@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Women Safety Intelligence System
 
 An AI-powered safety intelligence platform that uses semantic memory and machine learning to identify unsafe locations, time-based risk patterns, and recurring safety threats—helping women make informed, proactive safety decisions.
@@ -105,3 +106,6 @@ streamlit run ui.py
 ### Open in browser:
 
 http://localhost:8501
+=======
+# Women-Safety-Intelligence-System
+>>>>>>> b36b7f9d13889e23a2ce3a55e8cab33c6f8c964b
